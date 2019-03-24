@@ -1,2 +1,2 @@
 # ELK
-https://logz.io/learn/complete-guide-elk-stack
+Express server with an access logger. Log file to be consumed by an ELK stack.
